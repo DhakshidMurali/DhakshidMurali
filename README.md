@@ -53,7 +53,7 @@
 
   🛠️ Technologies: Flutter, NodeJs , Mongo DB , Firebase
 
-  📂 Repository: [Link to GitHub repo, if available]
+  📂 Repository: [straw_boss](https://github.com/DhakshidMurali/straw_boss)
 
 - **EDUCATIONAL CHATBOT**
 
@@ -61,7 +61,7 @@
 
   🛠️ Technologies: ReactJs,ExpressJs ,Mongo DB ,Django
 
-  📂 Repository: [Link to GitHub repo, if available]
+  📂 Repository: [EdBot](https://github.com/DhakshidMurali/EdBot)
 
 ### 💡 Personal Projects
 
@@ -72,7 +72,7 @@
 
   🛠️ Technologies: Next, Golang, MUI, Neo4j
 
-  📂 Repository: [Link to GitHub repo, if available]
+  📂 Repository: [Tara](https://github.com/DhakshidMurali/tara)
 
 - **THREEJS**
 
@@ -80,4 +80,4 @@
 
   🛠️ Technologies: ThreeJs
 
-  📂 Repository: [Link to GitHub repo, if available]
+  📂 Repository: [Threejs_Plain_Visual](https://github.com/DhakshidMurali/threejs_Plain_Visual)
