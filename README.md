@@ -1,15 +1,83 @@
-### Hi there 👋, my name is Dhakshid Sabari 
-### I am Application Developer and Backend developer
-![I am Application Developer and Backend developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDc1WPj8BWI7GgrMKGhw5DVgLmuSkcr-A1A&usqp=CAU)
+# I'm Dhakshid Sabari - Web & Mobile App Developer
 
+### 🔗 Connect With Me
 
-> **SKILLS : NODEJS / FLUTTER / THREEJS**
+- Email: [📧 DhakshidMurali](mailto:dhakshidmurali.2001@gmail.com)
 
-- 🔭 I’m currently working on Application Development 
-- 🌱 I’m currently learning Machine Learning 
+## 📝 Quick Intro
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DhakshidMurali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dhakshidmurali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.java.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dart.svg' alt='dart' height='40'>](https://dart.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'>](https://www.mongodb.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>](https://www.mysql.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](https://nodejs.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg' alt='flutter' height='40'>](https://flutter.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg' alt='firebase' height='40'>](https://firebase.google.com/)  
+- I am a Software Engineer with over 2+ years of experience. I like to know how to build smooth, easy-to-use front-end designs to performant, reliable backend systems. Currently, I'm a Software developer at IBM contributing to and supporting SaaS applications.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhakshidMurali)](https://github.com/anuraghazra/github-readme-stats)
+## 🎓 Education
 
+- Sona College of Technology - Bachelor of Engineering in Computer Science
+
+## 🛠️ Platforms & Frameworks
+
+* ###  Frontend
+
+    ![React](https://skillicons.dev/icons?i=react)
+    ![Next.js](https://skillicons.dev/icons?i=nextjs)
+    ![JavaScript](https://skillicons.dev/icons?i=threejs)
+
+* ### Backend
+
+    ![Firebase](https://skillicons.dev/icons?i=spring)
+    ![Firebase](https://skillicons.dev/icons?i=golang)
+    ![Node.js](https://skillicons.dev/icons?i=nodejs)
+    ![Express](https://skillicons.dev/icons?i=express)
+    ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+* ###  Mobile
+
+    ![Flutter](https://skillicons.dev/icons?i=flutter)  
+
+* ### Databases
+
+    ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="60" height="60" />
+
+## 💼 Experience
+
+- Software Developer at IBM ( 📅 July 2023 - Present )
+
+## 🌟 Projects
+
+### 🎓 Academic Projects
+
+- **STRAW BOSS**
+
+  📝 Description: Built a chat, survey management system and notes
+  sharing platform with functional features for students to
+  ask questions and find the solution along with materials.
+
+  🛠️ Technologies: Flutter, NodeJs , Mongo DB , Firebase
+
+  📂 Repository: [Link to GitHub repo, if available]
+
+- **EDUCATIONAL CHATBOT**
+
+  📝 Description: Built a web chat application with voice and text input, AIgenerated responses, and text-to-speech playback in English and Tamil, along with a feedback system.
+
+  🛠️ Technologies: ReactJs,ExpressJs ,Mongo DB ,Django
+
+  📂 Repository: [Link to GitHub repo, if available]
+
+### 💡 Personal Projects
+
+- **Tools Sharing Platform**
+
+  📝 Description: An app for users to share tool details and search tools by name or domain via a
+  user-friendly visual dashboard.
+
+  🛠️ Technologies: Next, Golang, MUI, Neo4j
+
+  📂 Repository: [Link to GitHub repo, if available]
+
+- **THREEJS**
+
+  📝 Description: Created an plain visual. Find the visuals in the repository
+
+  🛠️ Technologies: ThreeJs
+
+  📂 Repository: [Link to GitHub repo, if available]
