@@ -6,7 +6,7 @@
 
 ## 📝 Quick Intro
 
-- I am a Software Engineer with over 2+ years of experience. I like to know how to build smooth, easy-to-use front-end designs to performant, reliable backend systems. Currently, I'm a Software developer at IBM contributing to and supporting SaaS applications.
+- I am a Software Engineer with over 2+ years of experience. I'm interested in learning how to build smooth, easy-to-use front-end designs to performant, reliable backend systems. Currently, I'm a Software developer at IBM contributing to and supporting SaaS applications.
 
 ## 🎓 Education
 
