@@ -2,7 +2,7 @@
 
 ### 🔗 Connect With Me
 
-- Email: [📧 DhakshidMurali](mailto:dhakshidmurali.2001@gmail.com)
+- Email: [📧 DhakshidMurali](mailto:dhakshidmurali01@gmail.com)
 
 ## 📝 Quick Intro
 
