@@ -1,4 +1,4 @@
-# I'm Dhakshid Sabari - Web & Mobile App Developer
+# I'm Dhakshid Sabari - Software Developer
 
 ### 🔗 Connect With Me
 
